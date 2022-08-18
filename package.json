@@ -11,7 +11,7 @@
   "author": "j.cheatham@gmail.com",
   "license": "BSD-3-Clause",
   "devDependencies": {
-    "@actions/core": "~1.2.6",
+    "@actions/core": "~1.9.1",
     "@actions/github": "~2.1.1",
     "@commitlint/cli": "~8.3.5",
     "@commitlint/config-conventional": "~8.3.4",
